@@ -1,3 +1,5 @@
+/* Arkadiusz Marszałek, Filip Głowacki, Dawid Kędra, Wiktoria Eljaszewicz 2019 */
+
 #include <LiquidCrystal.h>
 #define HEATER_0_PIN       10
 #define TEMP_0_PIN         13  
