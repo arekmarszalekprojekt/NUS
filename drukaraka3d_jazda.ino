@@ -65,7 +65,7 @@ void loop() {
   krok++;
   
  /* *************JAZDA DRUKARKI GORA-DOL**********
-  *  if (krok==500){
+  *  if (krok==600){
     krok=0;
     kierunek=!kierunek;
     digitalWrite(X_DIR_PIN, kierunek1);
